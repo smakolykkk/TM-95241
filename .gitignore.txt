@@ -1,0 +1,29 @@
+# Logi
+*.log
+logs/
+
+# Pliki tymczasowe
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Środowiska wirtualne
+venv/
+.venv/
+env/
+
+# Node modules
+node_modules/
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE / edytory
+.vscode/
+.idea/
