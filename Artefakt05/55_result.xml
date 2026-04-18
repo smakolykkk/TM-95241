@@ -1,0 +1,8 @@
+<testsuite name="ConsistencyTest" tests="2" failures="0">
+  <testcase name="Identyfikacja Aplikacji">
+    <system-out>ZGODNY: Pakiet io.appium.android.apis poprawnie zmapowany.</system-out>
+  </testcase>
+  <testcase name="Dostępność UI">
+    <system-out>INFORMACJA: Nie odnaleziono ID 'ACCESSIBILITY'. Sugestia: Zweryfikuj czy element nie zmienił nazwy na jedną z dostępnych: ['ACTION_BAR_TITLE', 'ACTION_BAR_SUBTITLE', 'ACTION_MODE_CLOSE_BUTTON'].</system-out>
+  </testcase>
+</testsuite>
